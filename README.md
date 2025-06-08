@@ -1,3 +1,7 @@
+
+![logo](https://github.com/Ankita-Patil-2002/Ankita-Patil-2002/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Ankita Patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
