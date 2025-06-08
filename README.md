@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ankita Patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Data Analyst" width="300" src="https://i.pinimg.com/originals/cf/94/7b/cf947b46283c10c47e3d5d945afb7053.gif">
+<img align="right" alt="Data Analyst" width="400" src="https://i.pinimg.com/originals/cf/94/7b/cf947b46283c10c47e3d5d945afb7053.gif">
 
 
 
